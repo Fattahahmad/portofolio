@@ -10,7 +10,7 @@
   <meta content="" name="keywords">
 
   <!-- Favicons -->
-  <link href="assets/img/favicon.png" rel="icon">
+  <link href="assets/img/iconweb.png" rel="icon">
   <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
 
   <!-- Google Fonts -->
@@ -49,7 +49,6 @@
           <li><a class="nav-link scrollto" href="#portfolio">Portfolio</a></li>
           <li><a class="nav-link scrollto" href="#team">Team</a></li>
           <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
-          <li><a href="blog.html">Blog</a></li>
           <li><a class="getstarted scrollto" href="#about">Get Started</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
