@@ -11,7 +11,7 @@
 
   <!-- Favicons -->
   <link href="assets/img/iconweb.png" rel="icon">
-  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+  <link href="assets/img/appleiconweb.png" rel="apple-touch-icon">
 
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Nunito:300,300i,400,400i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
@@ -49,7 +49,6 @@
           <li><a class="nav-link scrollto" href="#portfolio">Portfolio</a></li>
           <li><a class="nav-link scrollto" href="#team">Team</a></li>
           <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
-          <li><a class="getstarted scrollto" href="#about">Get Started</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
@@ -61,10 +60,10 @@
   <section id="hero" class="hero d-flex align-items-center">
 
     <div class="container">
-      <div class="row">
+      <div class="row flex-lg-row flex-column-reverse">
         <div class="col-lg-6 d-flex flex-column justify-content-center">
-          <h1 data-aos="fade-up">We offer modern solutions for growing your business</h1>
-          <h2 data-aos="fade-up" data-aos-delay="400">We are team of talented designers making websites with Bootstrap</h2>
+          <h1 data-aos="fade-up">Hy, i'm Fattah Ahmad</h1>
+          <h2 data-aos="fade-up" data-aos-delay="400">Welcome to my portofolio website.</h2>
           <div data-aos="fade-up" data-aos-delay="600">
             <div class="text-center text-lg-start">
               <a href="#about" class="btn-get-started scrollto d-inline-flex align-items-center justify-content-center align-self-center">
@@ -74,8 +73,8 @@
             </div>
           </div>
         </div>
-        <div class="col-lg-6 hero-img" data-aos="zoom-out" data-aos-delay="200">
-          <img src="assets/img/hero-img.png" class="img-fluid" alt="">
+        <div class="col-lg-6 hero-img " data-aos="zoom-out" data-aos-delay="200">
+          <img src="assets/img/myilustrate.png" class="img-fluid" alt="">
         </div>
       </div>
     </div>

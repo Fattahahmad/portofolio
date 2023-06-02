@@ -493,7 +493,8 @@ section {
 }
 
 .hero .hero-img {
-  text-align: right;
+  text-align: center;
+  
 }
 
 @media (min-width: 1024px) {
@@ -510,11 +511,19 @@ section {
 
   .hero .hero-img {
     text-align: center;
-    margin-top: 80px;
+    margin-top: 60px;
   }
 
   .hero .hero-img img {
-    width: 80%;
+    width: 60%;
+  }
+
+  .hero h1{
+    text-align: center;
+  }
+
+  .hero h2 {
+    text-align: center;
   }
 }
 
@@ -532,7 +541,7 @@ section {
   }
 
   .hero .hero-img img {
-    width: 100%;
+    width: 60%;
   }
 }
 
